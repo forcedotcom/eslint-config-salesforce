@@ -16,6 +16,7 @@ module.exports = {
     camelcase: 'error',
     complexity: 'error',
     curly: ['error', 'multi-line'],
+    'class-methods-use-this': 'error',
     'eol-last': 'error',
     eqeqeq: ['error', 'smart'],
     'guard-for-in': 'error',
