@@ -26,6 +26,7 @@ module.exports = {
     'no-caller': 'error',
     'no-console': 'error',
     'no-eval': 'error',
+    'no-lonley-if': 'error',
     'no-multiple-empty-lines': 'error',
     'no-new-wrappers': 'error',
     'no-octal-escape': 'error',
