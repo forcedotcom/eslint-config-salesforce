@@ -47,6 +47,7 @@ module.exports = {
     'object-shorthand': 'error',
     'one-var': ['error', 'never'],
     'prefer-const': 'error',
+    'prefer-spread': 'error',
     'quote-props': ['error', 'as-needed'],
     radix: 'error',
     'spaced-comment': [
