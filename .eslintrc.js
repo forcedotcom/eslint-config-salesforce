@@ -24,6 +24,7 @@ module.exports = {
     'id-match': 'error',
     'max-len': ['error', { code: 120 }],
     'new-parens': 'error',
+    'no-await-in-loop': 'error',
     'no-caller': 'error',
     'no-console': 'error',
     'no-eval': 'error',
