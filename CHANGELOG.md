@@ -1,7 +1,17 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.0.0 (2022-06-20)
+
+
+### Features
+
+* cause release with context ([0958257](https://github.com/forcedotom/eslint-config-salesforce/commit/095825718703a0420b8508127ca7d41a3f3b3bfa))
+* class methods use `this` ([fc8ef48](https://github.com/forcedotom/eslint-config-salesforce/commit/fc8ef48c016d6950847954fa505ec659e9690bda))
+* no await in loop ([97eabe1](https://github.com/forcedotom/eslint-config-salesforce/commit/97eabe1de71826b434d5ddde7247f272972442b1))
+* no-lonely-if ([c6b4ad6](https://github.com/forcedotom/eslint-config-salesforce/commit/c6b4ad645ab0791ba85037c736a22adcbe99c0c0))
+* prefer spread ([64f804f](https://github.com/forcedotom/eslint-config-salesforce/commit/64f804fdda13a7448f825d73beb62a349ec19c07))
 
 ## [0.1.7](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce@0.1.6...eslint-config-salesforce@0.1.7) (2021-06-03)
 
