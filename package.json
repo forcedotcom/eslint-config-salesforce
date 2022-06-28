@@ -13,7 +13,7 @@
   "files": [
     ".eslintrc.js"
   ],
-  "repository": "forcedotom/eslint-config-salesforce",
+  "repository": "forcedotcom/eslint-config-salesforce",
   "bugs": {
     "url": "https://github.com/forcedotcom/eslint-config-salesforce/issues"
   },
