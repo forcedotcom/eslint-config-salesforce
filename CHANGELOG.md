@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/v1.0.1...v1.0.2) (2022-06-29)
+
+
+### Bug Fixes
+
+* **package.json:** fix repository metadata ([5ab2b35](https://github.com/forcedotcom/eslint-config-salesforce/commit/5ab2b35d731ae7db8f2d3f5e4c953bd45f8dc66e))
+
 ### [1.0.1](https://github.com/forcedotom/eslint-config-salesforce/compare/v1.0.0...v1.0.1) (2022-06-20)
 
 
