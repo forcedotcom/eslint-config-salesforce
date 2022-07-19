@@ -1,4 +1,4 @@
-# `eslint-config-salesforce-typescript`
+# `eslint-config-salesforce`
 
 Salesforce eslint configuration for all projects.
 
