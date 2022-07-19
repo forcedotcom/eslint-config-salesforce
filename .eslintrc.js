@@ -3,8 +3,8 @@ module.exports = {
     es6: true,
     node: true,
   },
-  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
-  plugins: ['eslint-plugin-import', 'eslint-plugin-jsdoc', 'prettier'],
+  extends: ['eslint:recommended', 'prettier'],
+  plugins: ['eslint-plugin-import', 'eslint-plugin-jsdoc'],
   rules: {
     // ESLint Recommended Overrides
     'valid-typeof': 'off',
