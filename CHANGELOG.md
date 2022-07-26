@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/v1.0.3...v1.1.0) (2022-07-26)
+
+
+### Features
+
+* **prettier:** remove eslint-plugin-prettier, add eslint-config-prettier ([fe3ccd4](https://github.com/forcedotcom/eslint-config-salesforce/commit/fe3ccd41936a5b57a68a60fa1fcf889f77bd6408)), closes [#19](https://github.com/forcedotcom/eslint-config-salesforce/issues/19)
+
 ### [1.0.3](https://github.com/forcedotcom/eslint-config-salesforce/compare/v1.0.2...v1.0.3) (2022-07-20)
 
 ### [1.0.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/v1.0.1...v1.0.2) (2022-06-29)
