@@ -23,7 +23,7 @@ module.exports = {
 Because eslint requires all eslint packages locally, you must also install the following packages.
 
 ```bash
-yarn add eslint eslint-plugin-import eslint-plugin-prettier eslint-plugin-jsdoc
+yarn add eslint eslint-plugin-import eslint-plugin-jsdoc
 ```
 
 For Salesforce owned repositories, also extend [eslint-config-salesforce-license](https://www.npmjs.com/package/eslint-config-salesforce-license);
