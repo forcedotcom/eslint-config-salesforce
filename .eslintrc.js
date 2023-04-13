@@ -42,6 +42,10 @@ module.exports = {
               "imports from this repo's src folder should be a relative path",
           },
           {
+            group: ["**/src/**"],
+            message: "this should cause errors to be flagged",
+          },
+          {
             group: ["lib/**"],
             message:
               "import from /src not from /lib.  /lib is a build artifact",
