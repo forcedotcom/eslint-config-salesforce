@@ -33,8 +33,11 @@ jobs:
           - https://github.com/salesforcecli/plugin-sobject
           - https://github.com/salesforcecli/plugin-templates
           - https://github.com/salesforcecli/plugin-user
+          - https://github.com/salesforcecli/sf-plugins-core
           - https://github.com/forcedotcom/source-tracking
           - https://github.com/forcedotcom/source-deploy-retrieve
+          - https://github.com/forcedotcom/packaging
+          - https://github.com/forcedotcom/sfdx-core
 
     with:
       packageName: "eslint-config-salesforce"
