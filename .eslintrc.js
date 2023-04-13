@@ -37,7 +37,7 @@ module.exports = {
       {
         patterns: [
           {
-            group: ["src/*"],
+            group: ["src/**"],
             message:
               "imports from this repo's src folder should be a relative path",
           },
@@ -46,7 +46,7 @@ module.exports = {
             message: "this should cause errors to be flagged",
           },
           {
-            group: ["lib/*"],
+            group: ["lib/**"],
             message:
               "import from /src not from /lib.  /lib is a build artifact",
           },
