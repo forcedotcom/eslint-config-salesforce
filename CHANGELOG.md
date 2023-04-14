@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/1.1.1...1.2.0) (2023-04-14)
+
+
+### Bug Fixes
+
+* add relative lib references ([3450c25](https://github.com/forcedotcom/eslint-config-salesforce/commit/3450c250c3ae8a67eaadc74411a9aa533f958b22))
+
+
+### Features
+
+* import restrictions for lib, non-relative src ([07c05d6](https://github.com/forcedotcom/eslint-config-salesforce/commit/07c05d6cb606f1318bcba2302c9077ee25b62bbc))
+* intended rules ([2933612](https://github.com/forcedotcom/eslint-config-salesforce/commit/2933612eb1fc0640f23f6b35be2cc37f9e85da26))
+
+
+
 ## [1.1.1](https://github.com/forcedotcom/eslint-config-salesforce/compare/v1.1.0...1.1.1) (2023-01-28)
 
 
