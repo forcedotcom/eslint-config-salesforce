@@ -80,6 +80,8 @@ module.exports = {
     "import/order": "error",
     "jsdoc/check-alignment": "error",
     "jsdoc/check-indentation": "error",
-    "jsdoc/tag-lines": "error"
+    "jsdoc/tag-lines": ["error", {
+      startLines: 1
+    }]
   },
 };
