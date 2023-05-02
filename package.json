@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesforce",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "The eslint config for Salesforce projects",
   "keywords": [
     "Salesforce",
@@ -21,7 +21,7 @@
     "eslint": "^8.39.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-jsdoc": "^39.9.1"
+    "eslint-plugin-jsdoc": "^43.1.1"
   },
   "publishConfig": {
     "access": "public"
