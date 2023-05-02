@@ -1,3 +1,12 @@
+## [2.0.1](https://github.com/forcedotcom/eslint-config-salesforce/compare/1.2.0...2.0.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* remove `jsdoc/newline-after-description` rule ([#66](https://github.com/forcedotcom/eslint-config-salesforce/issues/66)) ([3ee6f3a](https://github.com/forcedotcom/eslint-config-salesforce/commit/3ee6f3a86ce3e07b66ed52f6e7b8a46886696726))
+
+
+
 # [1.2.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/1.1.1...1.2.0) (2023-04-14)
 
 
