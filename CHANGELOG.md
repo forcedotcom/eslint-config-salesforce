@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.0.1...2.0.2) (2023-07-13)
+
+
+### Bug Fixes
+
+* **deps:** bump semver from 6.3.0 to 6.3.1 ([9907feb](https://github.com/forcedotcom/eslint-config-salesforce/commit/9907febade7b64e67dc99c8733159b9fedd2e214))
+
+
+
 ## [2.0.1](https://github.com/forcedotcom/eslint-config-salesforce/compare/1.2.0...2.0.1) (2023-05-02)
 
 
