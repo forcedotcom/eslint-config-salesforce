@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^8.10.0",
-    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsdoc": "^43.2.0"
   },
   "publishConfig": {
