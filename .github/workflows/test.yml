@@ -43,4 +43,4 @@ jobs:
     with:
       packageName: "eslint-config-salesforce"
       externalProjectGitUrl: ${{ matrix.externalProjectGitUrl }}
-      preExternalBuildCommands: "shx rm -rf node_modules/@salesforce/**/node_modules/@salesforce/eslint-config-salesforce"
+      preExternalBuildCommands: "rm -rf node_modules/@salesforce/**/node_modules/@salesforce/eslint-config-salesforce"
