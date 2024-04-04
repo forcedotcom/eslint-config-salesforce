@@ -46,6 +46,12 @@ module.exports = {
             group: ["**/../lib/**", "lib/**"],
             message: "import from /src not from /lib. /lib is a build artifact",
           },
+          {
+            group: ["@salesforce/kit"],
+            importNames: ["logFn"],
+            message:
+              "The logging function is only for debug and should not be shipped in production code",
+          },
         ],
       },
     ],

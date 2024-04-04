@@ -1,3 +1,12 @@
+# [2.1.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.0.2...2.1.0) (2024-03-26)
+
+
+### Features
+
+* keep logFn out of code ([#94](https://github.com/forcedotcom/eslint-config-salesforce/issues/94)) ([73062e2](https://github.com/forcedotcom/eslint-config-salesforce/commit/73062e2d6024ec7dd625a874a1d8e9eab6634066))
+
+
+
 ## [2.0.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.0.1...2.0.2) (2023-07-13)
 
 

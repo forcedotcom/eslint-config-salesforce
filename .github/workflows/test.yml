@@ -25,6 +25,7 @@ jobs:
           - https://github.com/salesforcecli/plugin-info
           - https://github.com/salesforcecli/plugin-limits
           - https://github.com/salesforcecli/plugin-login
+          - https://github.com/salesforcecli/plugin-marketplace
           - https://github.com/salesforcecli/plugin-org
           - https://github.com/salesforcecli/plugin-packaging
           - https://github.com/salesforcecli/plugin-schema
@@ -42,3 +43,4 @@ jobs:
     with:
       packageName: "eslint-config-salesforce"
       externalProjectGitUrl: ${{ matrix.externalProjectGitUrl }}
+      preExternalBuildCommands: "rm -rf node_modules/@salesforce/**/node_modules/@salesforce/eslint-config-salesforce"
