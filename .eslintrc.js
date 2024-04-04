@@ -32,6 +32,7 @@ module.exports = {
     "no-multiple-empty-lines": "error",
     "no-new-wrappers": "error",
     "no-octal-escape": "error",
+    "no-param-reassign": ["error", { props: true }],
     "no-restricted-imports": [
       "error",
       {
