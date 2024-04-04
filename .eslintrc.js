@@ -32,6 +32,7 @@ module.exports = {
     "no-multiple-empty-lines": "error",
     "no-new-wrappers": "error",
     "no-octal-escape": "error",
+    "no-param-reassign": ["warn", { props: true }],
     "no-restricted-imports": [
       "error",
       {
@@ -80,6 +81,6 @@ module.exports = {
     "import/order": "error",
     "jsdoc/check-alignment": "error",
     "jsdoc/check-indentation": "error",
-    "jsdoc/tag-lines": [2, "any", { "startLines": 1,"endLines": 1 }]
+    "jsdoc/tag-lines": [2, "any", { startLines: 1, endLines: 1 }],
   },
 };
