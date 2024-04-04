@@ -1,3 +1,12 @@
+# [2.2.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.1.0...2.2.0) (2024-04-04)
+
+
+### Features
+
+* no-param-reassign ([5744311](https://github.com/forcedotcom/eslint-config-salesforce/commit/574431185af5235047ef132eaf5bc03e2a6ccee4))
+
+
+
 # [2.1.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.0.2...2.1.0) (2024-03-26)
 
 
