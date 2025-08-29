@@ -1,3 +1,12 @@
+## [2.2.1](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.0...2.2.1) (2025-08-29)
+
+
+### Bug Fixes
+
+* oss compliance ([4fbb4d0](https://github.com/forcedotcom/eslint-config-salesforce/commit/4fbb4d0e2444adc052d7bdc5553d70223c93203a))
+
+
+
 # [2.2.0](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.1.0...2.2.0) (2024-04-04)
 
 
