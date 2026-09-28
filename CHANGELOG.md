@@ -1,3 +1,13 @@
+## [2.2.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.1...2.2.2) (2026-09-28)
+
+
+### Bug Fixes
+
+* **deps:** bump flatted from 3.2.2 to 3.4.4 ([8ba1db8](https://github.com/forcedotcom/eslint-config-salesforce/commit/8ba1db8a4cc6ffc5d2349e113c78a1588d2078cd))
+* **deps:** bump js-yaml from 4.1.0 to 4.3.2 ([37442dd](https://github.com/forcedotcom/eslint-config-salesforce/commit/37442dd5a4497f61a75640f1d93c9c8145e288da))
+
+
+
 ## [2.2.1](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.0...2.2.1) (2025-08-29)
 
 
