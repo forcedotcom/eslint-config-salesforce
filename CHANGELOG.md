@@ -1,3 +1,12 @@
+## [2.2.4](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.3...2.2.4) (2026-10-23)
+
+
+### Bug Fixes
+
+* **deps:** bump brace-expansion from 1.1.11 to 1.1.18 ([8f9cf92](https://github.com/forcedotcom/eslint-config-salesforce/commit/8f9cf9250a920efa070bf0079faa4be87f4dd4be))
+
+
+
 ## [2.2.3](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.2...2.2.3) (2026-10-23)
 
 

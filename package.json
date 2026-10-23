@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesforce",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "The eslint config for Salesforce projects",
   "keywords": [
     "Salesforce",
