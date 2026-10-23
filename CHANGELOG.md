@@ -1,3 +1,12 @@
+## [2.2.3](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.2...2.2.3) (2026-10-23)
+
+
+### Bug Fixes
+
+* **deps:** bump minimatch from 3.1.2 to 3.1.5 ([7872080](https://github.com/forcedotcom/eslint-config-salesforce/commit/7872080bd1d021d63b3b89b7b1455b521b1f2675))
+
+
+
 ## [2.2.2](https://github.com/forcedotcom/eslint-config-salesforce/compare/2.2.1...2.2.2) (2026-09-28)
 
 
